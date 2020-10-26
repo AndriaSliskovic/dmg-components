@@ -1,0 +1,24 @@
+.dmgButton{
+    padding: 8px 14px;
+    border-radius: 5px;
+    border: 1px solid navy;
+    color: navy;
+    font-weight: bold;
+    background-color: transparent;
+    transition: 0.15s ;
+}
+.dmgButton:hover{
+    cursor: pointer;
+    background-color: navy;
+    color: white;
+}
+/* .dmgButton:last-child
+{
+    color: orangered;
+    border-color: orangered;
+}
+.dmgButton:last-child:hover
+{
+    background-color: orangered;
+    color: white;
+} */
